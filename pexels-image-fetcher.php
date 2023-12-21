@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Pexels Image Fetcher
- * Plugin URI: https://ranmalmendis.github.io/ranmal_mendis/
+ * Plugin URI: https://github.com/ranmalmendis/pexels-image-fetcher
  * Description: Fetches images from Pexels based on a specified topic.
  * Version: 1.0
  * Author: Ranmal Mendis
