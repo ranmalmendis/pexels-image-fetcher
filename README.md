@@ -2,6 +2,8 @@
 
 The Pexels Image Fetcher is a WordPress plugin designed to dynamically fetch and display images from Pexels.com based on specified topics. This plugin integrates seamlessly with the Pexels API, allowing WordPress site administrators to enrich their website with high-quality, relevant photographs without the need for manual image sourcing.
 
+https://www.loom.com/share/27c4f8d6272d4ebf98f2d2e1be908583?sid=f4d79a4c-bacd-4bd3-a38e-8e53e9e054a4
+
 ## Features
 
 - **Dynamic Image Fetching**: Automatically retrieves images from Pexels based on user-defined topics.
